@@ -33,16 +33,7 @@ public class MaxNumber
         return maxNumber;
     }
 
-    //public static void Main()
-    //{
-    //    int[] numbers = { 1, 2, 3, 4, 5 };
-    //    var sumCalculator = new SumCalculator();
 
-    //    ArrayProcessor.ProcessArray(numbers, sumCalculator.AddToSum);
-
-    //    int totalSum = sumCalculator.GetSum(); // Returns 15
-    //    Console.WriteLine($"Total sum: {totalSum}");
-    //}
 }
 
 
